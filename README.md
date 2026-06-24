@@ -2,9 +2,7 @@
 
 🎓 Estudante de Engenharia de Software na Uniasselvi
 
-💻 Apaixonado por tecnologia e desenvolvimento de software
-
-🐍 Focado em Python e Desenvolvimento Back-End
+💻 Focado em Desenvolvimento Back-End com Python
 
 🏭 Atualmente atuo como Operador de Produção na General Motors
 
@@ -12,60 +10,64 @@
 
 ---
 
-## Sobre mim
+## 👨‍💻 Sobre Mim
 
-Atualmente estou cursando Engenharia de Software e desenvolvendo projetos para aprimorar minhas habilidades em programação. Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia, atuando principalmente com desenvolvimento Back-End utilizando Python.
+Sou estudante de Engenharia de Software apaixonado por tecnologia e programação. Atualmente estou construindo projetos para desenvolver minhas habilidades em Python, Programação Orientada a Objetos, Git, GitHub e Banco de Dados.
 
-Estou constantemente estudando e aplicando conceitos de:
-
-- Lógica de Programação
-- Programação Orientada a Objetos (POO)
-- Python
-- Git e GitHub
-- Banco de Dados SQL
+Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia e evoluir profissionalmente como Desenvolvedor Back-End.
 
 ---
 
-## Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## Projetos em Destaque
-
-🧮 Calculadora em Python
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
-## Atualmente Estudando
+## 📚 Atualmente Estudando
 
-- Python Avançado
-- Programação Orientada a Objetos
-- Banco de Dados
-- Desenvolvimento Back-End
-- Git e GitHub
-
----
-
-## Objetivo Profissional
-
-Busco minha primeira oportunidade na área de Desenvolvimento de Software para aplicar meus conhecimentos, aprender com profissionais experientes e crescer como desenvolvedor.
+* Python
+* Programação Orientada a Objetos (POO)
+* Git e GitHub
+* Banco de Dados SQL
+* Desenvolvimento Back-End
 
 ---
 
-## Contato
+## 🚀 Projetos em Destaque
 
-📧 Tairacomassetto4@gmail.com
+### 🧮 Calculadora em Python
 
-💼 LinkedIn: www.linkedin.com/in/tairã-comassetto
+Projeto desenvolvido para praticar lógica de programação, funções, módulos e organização de código.
 
-🐙 GitHub: https://github.com/TairaComassetto
+Em breve:
+
+* 📦 Sistema de Controle de Estoque
+* 👨‍💼 Sistema de Cadastro de Funcionários
+* 🔧 Sistema de Controle de Peças Automotivas
 
 ---
-⭐ Sempre aprendendo e construindo novos projetos!
+
+## 🎯 Objetivo Profissional
+
+Busco minha primeira oportunidade na área de Desenvolvimento de Software para aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para projetos reais.
+
+---
+
+## 📫 Contato
+
+📧 Email: [Tairacomassetto4@gmail.com](mailto:Tairacomassetto4@gmail.com)
+
+💼 LinkedIn: [www.linkedin.com/in/tairã-comassetto](http://www.linkedin.com/in/tairã-comassetto)
+
+🐙 GitHub: github.com/TairaComassetto
+
+---
+
+⭐ Sempre aprendendo, evoluindo e construindo novos projetos.
+
 <!--
 **TairaComassetto/TairaComassetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
