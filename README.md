@@ -42,12 +42,6 @@ Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia e 
 
 Projeto desenvolvido para praticar lógica de programação, funções, módulos e organização de código.
 
-Em breve:
-
-* 📦 Sistema de Controle de Estoque
-* 👨‍💼 Sistema de Cadastro de Funcionários
-* 🔧 Sistema de Controle de Peças Automotivas
-
 ---
 
 ## 🎯 Objetivo Profissional
