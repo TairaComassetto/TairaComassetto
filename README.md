@@ -39,9 +39,27 @@ Atualmente estou focado em aprender Python e construir projetos que fortaleçam 
 
 ## 🚀 Projetos
 
-🧮 Calculadora em Python
+### 🧮 Calculadora em Python
 
-(https://github.com/TairaComassetto/Calculadora-Python)
+Projeto desenvolvido para praticar lógica de programação, modularização e boas práticas em Python.
+
+**Funcionalidades:**
+- ➕ Soma
+- ➖ Subtração
+- ✖️ Multiplicação
+- ➗ Divisão
+- 📜 Histórico de operações
+- 🗑️ Limpeza do histórico
+- 🎨 Interface no terminal com Rich
+
+**Tecnologias:**
+- Python
+- Rich
+- Git
+- GitHub
+
+🔗 Repositório:
+https://github.com/TairaComassetto/Calculadora-Python
 
 📦 Sistema de Controle de Estoque
 
