@@ -36,13 +36,6 @@ Atualmente estou focado em aprender Python e construir projetos que fortaleçam 
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TairaComassetto&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TairaComassetto&layout=compact&theme=tokyonight)
-
----
 
 ## 🚀 Projetos
 
