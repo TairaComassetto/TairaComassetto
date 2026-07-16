@@ -56,7 +56,7 @@ Busco minha primeira oportunidade na área de Desenvolvimento de Software para a
 
 💼 LinkedIn: [www.linkedin.com/in/tairã-comassetto](http://www.linkedin.com/in/tairã-comassetto)
 
-🐙 GitHub: github.com/TairaComassetto
+🐙 GitHub: [github.com/TairaComassetto](https://github.com/TairaComassetto)
 
 ---
 
