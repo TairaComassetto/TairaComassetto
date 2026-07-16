@@ -61,6 +61,8 @@ Projeto desenvolvido para praticar lógica de programação, modularização e b
 🔗 Repositório:
 https://github.com/TairaComassetto/Calculadora-Python
 
+---
+
 📦 Sistema de Controle de Estoque
 
 Em desenvolvimento...
