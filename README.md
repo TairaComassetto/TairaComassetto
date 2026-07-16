@@ -24,16 +24,12 @@ Atualmente estou focado em aprender Python e construir projetos que fortaleçam 
 
 ## 🛠 Tecnologias
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
-
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode)
-
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ---
 
 
