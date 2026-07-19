@@ -75,7 +75,6 @@ Mais projetos em breve.
 - Aprender Django
 - Aprender SQL
 - Criar projetos completos
-- Contribuir em projetos Open Source
 
 ---
 
